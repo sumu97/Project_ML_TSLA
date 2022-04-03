@@ -1,5 +1,6 @@
 # Project_ML_TSLA
 테슬라 검색량 데이터와 주가 데이터를 통한 투자지표 생성 프로젝트
+- Youtube : https://www.youtube.com/watch?v=UiNQL1OyaYo&t=4s
 
 ## WHY
 - 군에 있을 때, 테슬라에 투자하며 4000만원 가량의 수익을 올렸었다.
