@@ -1,12 +1,12 @@
 # Project_ML_TSLA
 테슬라 검색량 데이터와 주가 데이터를 통한 투자지표 생성 프로젝트
 
-[투자방식]
+[투자방식]  
+ 
+- Notion : https://pinto-truck-71f.notion.site/MLT-081a6ec08e4d423d8be1926b723e04b1  
+[코드설명]  
 
-Notion : https://pinto-truck-71f.notion.site/MLT-081a6ec08e4d423d8be1926b723e04b1
-[코드설명]
-
-Notion : https://pinto-truck-71f.notion.site/MLT-1a0c5b71e65f462f9dfcd453da507e81
+- Notion : https://pinto-truck-71f.notion.site/MLT-1a0c5b71e65f462f9dfcd453da507e81  
 
 [실행 가이드]
 1. DB_crawling 실행
